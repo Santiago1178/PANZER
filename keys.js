@@ -1,5 +1,5 @@
 module.exports = {
-    ACCESS_KEY:process.env.ACCESS_KEY,
-    SECRET_KEY:process.env.SECRET_KEY,
-    API_KEY: process.env.API_KEY
+    ACCESS_KEY:AKIASSSPECJGHAGOV7OC.env.ACCESS_KEY,
+    SECRET_KEY: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.env.SECRET_KEY,
+    API_KEY: ETyD4E0iPT8vLAVQ5FhkN7IiGtHskjKn61YKVUkR.env.API_KEY
 };
